@@ -1,0 +1,2 @@
+# Mconnect-Brand-Logo-Manufacturer-Slider-Extension-for-Magento-2
+Brand Logo/Manufacturer Slider Extension for Magento 2 by Mconnect will personalize the shopping for your customers by highlighting the manufacturer or brand’s logo in a responsive scrolling slider. With tons of other customization, you can boost your sales and conversions by letting customers shop for products of their favorite brand.
